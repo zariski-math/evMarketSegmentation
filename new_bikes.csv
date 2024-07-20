@@ -1,0 +1,54 @@
+,Model,Manufacturer,Vehicle Type,Battery Capacity (kWh),Range per Charge (km),Charging Time,Price,Power (HP or kW),Top Speed (km/h),Year of Manufacture
+0,Ola Electric S1,Ola,Scooter,2.98,181,5.0,85099.0,4.5,116.0,2021.0
+1,Ola Electric S1 Pro,Ola,Scooter,4.0,181,6.5,120149.0,11.0,116.0,2021.0
+2,TVS iQube,TVS,Scooter,3.4,75,6.5,117630.0,4.4,78.0,2020.0
+3,Aura 300 Plus,Ather Energy,Scooter,2.9,116,4.5,129000.0,6.0,80.0,2021.0
+4,Pure EV Epluto 7G,Pure EV,Scooter,2.7,120,3.0,109000.0,5.0,80.0,2021.0
+5,Bajaj Chetak Electric,Bajaj Auto,Scooter,4.0,95,5.0,150000.0,4.0,60.0,2020.0
+6,Okinawa iPraise Pro,Okinawa Autotech,Scooter,2.5,100,3.0,85000.0,3.0,60.0,2021.0
+7,Hero Electric Opto EV,Hero Motocorp,Scooter,2.2,75,3.0,75000.0,3.0,60.0,2021.0
+8,Tork T6X,Tork Motors,Bike,6.2,200,5.0,250000.0,25.0,100.0,2021.0
+9,Revolt RV400,Revolt Motors,Bike,3.2,150,4.0,150000.0,20.0,85.0,2021.0
+10,Bajaj Chetak Electric,Bajaj Auto,Scooter,4.0,95,5.0,150000.0,4.0,60.0,2020.0
+11,Ather 450X,Ather Energy,Scooter,2.9,116,4.5,149000.0,6.0,80.0,2021.0
+12,Pure EV Epluto 7G,Pure EV,Scooter,2.7,120,3.0,109000.0,5.0,80.0,2021.0
+13,Okinawa iPraise Pro,Okinawa Autotech,Scooter,2.5,100,3.0,85000.0,3.0,60.0,2021.0
+14,Hero Electric Opto EV,Hero Motocorp,Scooter,2.2,75,3.0,75000.0,3.0,60.0,2021.0
+15,Tork T6X,Tork Motors,Bike,6.2,200,5.0,250000.0,25.0,100.0,2021.0
+16,Revolt RV400,Revolt Motors,Bike,3.2,150,4.0,150000.0,20.0,85.0,2021.0
+17,Ather 450X,Ather Energy,Scooter,2.9,116,4.5,149000.0,6.0,80.0,2021.0
+18,Pure EV Epluto 7G,Pure EV,Scooter,2.7,120,3.0,109000.0,5.0,80.0,2021.0
+19,Okinawa iPraise Pro,Okinawa Autotech,Scooter,2.5,100,3.0,85000.0,3.0,60.0,2021.0
+20,Hero Electric Opto EV,Hero Motocorp,Scooter,2.2,75,3.0,75000.0,3.0,60.0,2021.0
+21,Tork T6X,Tork Motors,Bike,6.2,200,5.0,250000.0,25.0,100.0,2021.0
+22,Bajaj Chetak EV,Bajaj Auto,Scooter,4.0,146,5.5,145000.0,4.0,80.0,2021.0
+23,Ampere Reo,Ampere Vehicles,Scooter,3.0,100,3.5,80000.0,3.0,60.0,2021.0
+24,Urbanite X1,Electric Vehicle Co.,Scooter,2.5,100,3.0,75000.0,3.0,60.0,2021.0
+25,Joy e-Ride,Joy E-Bike,Bike,2.2,80,2.5,60000.0,2.0,50.0,2021.0
+26,Ather 450X,Ather Energy,Scooter,2.9,116,4.5,149000.0,6.0,80.0,2021.0
+27,Pure EV Epluto 7G,Pure EV,Scooter,2.7,120,3.0,109000.0,5.0,80.0,2021.0
+28,Okinawa iPraise Pro,Okinawa Autotech,Scooter,2.5,100,3.0,85000.0,3.0,60.0,2021.0
+29,Revolt RV400,Revolt Motors,Bike,3.2,150,4.0,150000.0,20.0,85.0,2021.0
+30,Ather 450X,Ather Energy,Scooter,2.9,116,4.5,149000.0,6.0,80.0,2021.0
+31,Pure EV Epluto 7G,Pure EV,Scooter,2.7,120,3.0,109000.0,5.0,80.0,2021.0
+32,Okinawa iPraise Pro,Okinawa Autotech,Scooter,2.5,100,3.0,85000.0,3.0,60.0,2021.0
+33,Joy E-Bike Urbanite X1,Electric Vehicle Co.,Bike,2.2,80,2.5,60000.0,2.0,50.0,2021.0
+34,Ampere Reo,Ampere Vehicles,Scooter,3.0,100,3.5,80000.0,3.0,60.0,2021.0
+35,Bajaj Chetak EV,Bajaj Auto,Scooter,4.0,146,5.5,145000.0,4.0,80.0,2021.0
+36,Urbanite X1,Electric Vehicle Co.,Scooter,2.5,100,3.0,75000.0,3.0,60.0,2021.0
+37,Ather 450X,Ather Energy,Scooter,2.9,116,4.5,149000.0,6.0,80.0,2021.0
+38,Pure EV Epluto 7G,Pure EV,Scooter,2.7,120,3.0,109000.0,5.0,80.0,2021.0
+39,Okinawa iPraise Pro,Okinawa Autotech,Scooter,2.5,100,3.0,85000.0,3.0,60.0,2021.0
+40,Revolt RV400,Revolt Motors,Bike,3.2,150,4.0,155000.0,21.0,85.0,2022.0
+41,Ather 500X,Ather Energy,Scooter,4.0,150,5.0,165000.0,7.0,90.0,2022.0
+42,Pure EV Epluto 8G,Pure EV,Scooter,3.5,140,3.5,120000.0,5.0,85.0,2022.0
+43,Okinawa iPraise Pro X,Okinawa Autotech,Scooter,3.0,120,3.0,95000.0,4.0,70.0,2022.0
+44,Joy E-Bike Urbanite X2,Electric Vehicle Co.,Bike,2.8,90,2.5,70000.0,3.0,60.0,2022.0
+45,Ampere Zeo,Ampere Vehicles,Scooter,3.5,120,4.0,90000.0,4.0,70.0,2022.0
+46,Bajaj Chetak EV Plus,Bajaj Auto,Scooter,4.5,160,6.0,160000.0,5.0,90.0,2022.0
+47,Urbanite X2,Electric Vehicle Co.,Scooter,3.2,130,4.0,110000.0,5.0,80.0,2022.0
+48,Ather 500X,Ather Energy,Scooter,4.0,150,5.0,165000.0,7.0,90.0,2022.0
+49,Pure EV Epluto 8G,Pure EV,Scooter,3.5,140,3.5,120000.0,5.0,85.0,2022.0
+50,Okinawa iPraise Pro X,Okinawa Autotech,Scooter,3.0,120,3.0,95000.0,4.0,70.0,2022.0
+51,Joy E-Bike Urbanite X3,Electric Vehicle Co.,Bike,2.9,85,2.5,75000.0,3.0,65.0,2022.0
+52,Ampere Zeo,Ampere Vehicles,Scooter,3.5,120,,,,,
